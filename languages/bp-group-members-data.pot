@@ -1,0 +1,104 @@
+# Copyright (C) 2016 BP Member Cards
+# This file is distributed under the same license as the BP Member Cards package.
+msgid ""
+msgstr ""
+"Project-Id-Version: BP Member Cards 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/bp-group-members-"
+"data\n"
+"POT-Creation-Date: 2016-11-20 12:17:36+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: bp-show-profile-data.php:98
+msgid "Show on card"
+msgstr ""
+
+#: bp-show-profile-data.php:102
+msgid "Enabled"
+msgstr ""
+
+#: bp-show-profile-data.php:103
+msgid "Disabled"
+msgstr ""
+
+#: bp-show-profile-data.php:118 bp-show-profile-data.php:127
+msgid "BuddyProfileData"
+msgstr ""
+
+#: bp-show-profile-data.php:132
+msgid "Profile data is shown in various places in BuddyPress."
+msgstr ""
+
+#: bp-show-profile-data.php:134
+msgid ""
+"This page controls the additional display of the selected profile fields on "
+"the selected pages."
+msgstr ""
+
+#: bp-show-profile-data.php:154
+msgid "Which pages should show profile data?"
+msgstr ""
+
+#: bp-show-profile-data.php:182 bp-show-profile-data.php:231
+msgid "Save Changes"
+msgstr ""
+
+#: bp-show-profile-data.php:189
+msgid "Which profile fields should be shown?"
+msgstr ""
+
+#: bp-show-profile-data.php:193
+msgid "Drag checked boxes to set display order."
+msgstr ""
+
+#: bp-show-profile-data.php:195
+msgid "Visibility settings will be honored."
+msgstr ""
+
+#: bp-show-profile-data.php:266
+msgid "Pages have been updated."
+msgstr ""
+
+#: bp-show-profile-data.php:269
+msgid "No changes were detected re Pages."
+msgstr ""
+
+#: bp-show-profile-data.php:306
+msgid "Fields have been updated."
+msgstr ""
+
+#: bp-show-profile-data.php:309
+msgid "No changes were detected re Fields."
+msgstr ""
+
+#: loader.php:30
+msgid ""
+"<a href=\"https://buddypress.org/\" target=\"_blank\">BuddyPress</a> plugin "
+"is required for \"BP show profile data in group member\" to work"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "BP Member Cards"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/bp-group-members-data/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"This plugin allows you to choose which fields to display about group "
+"members, from the fields available on their user profile pages."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "sooskriszta, abwebstudio1, topmba"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/sooskriszta"
+msgstr ""

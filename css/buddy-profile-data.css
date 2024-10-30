@@ -1,0 +1,23 @@
+/* 
+ * This file provides default styling for profile field display in BP member lists 
+ * 
+ * Styling is based on twentytwelve theme & is kept as minimal you will need to 
+ * customize to suit your chosen theme. 
+ * 
+ * You can overload this file by moving it as a copy to your theme directory or 
+ * simply add your styles to your themes stylesheets 
+ * 
+ * @package BuddyProfileData 
+ * @version buddyprofiledata 1.0 
+ */ 
+
+
+div.pp-profile-data { margin: 1em 0; font-size: 80%;}
+div.pp-profile-data:after { content: ' '; display: block; clear: both;}
+div.pp-profile-data-field-item { float: left; width: 50%; overflow: hidden;}
+div.pp-profile-data#pp-profile-data-members { } 
+div.pp-profile-data#pp-profile-data-groups { } 
+
+@media all and (max-width: 767px){
+	div.pp-profile-data-field-item { float: none; width: auto;}
+}
